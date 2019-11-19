@@ -23,16 +23,17 @@ namespace Exercises
 
             for (int i = 0; i < repeated.Length; i++)
             {
-                Console.WriteLine(" ");
+                string empty = " ";
+                Console.WriteLine(empty);
                 for (int j = 0; j < repeated.Length; j++)
                 {
 
                     j = j + i;
                     Console.WriteLine(j);
                     //if (j % 3 == 0)
-                    //{
-                    //    Console.WriteLine("*"); 
-                    //}
+                    {
+                        Console.WriteLine("*");
+                    }
                 }
                 
             }
