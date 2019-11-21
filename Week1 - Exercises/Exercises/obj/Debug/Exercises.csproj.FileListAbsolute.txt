@@ -1,0 +1,6 @@
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Exercises\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.exe
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.deps.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.runtimeconfig.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.runtimeconfig.dev.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\bin\Debug\netcoreapp3.0\Day2Exercises.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\obj\Debug\netcoreapp3.0\Day2Exercises.csprojAssemblyReference.cache
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\obj\Debug\netcoreapp3.0\Day2Exercises.AssemblyInfoInputs.cache
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\obj\Debug\netcoreapp3.0\Day2Exercises.AssemblyInfo.cs
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\obj\Debug\netcoreapp3.0\Day2Exercises.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day2\Day2Exercises\Day2Exercises\obj\Debug\netcoreapp3.0\Day2Exercises.pdb
