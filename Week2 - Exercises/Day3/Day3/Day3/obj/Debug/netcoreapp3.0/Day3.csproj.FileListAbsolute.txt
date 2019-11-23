@@ -1,4 +1,3 @@
-C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3\Day3\Day3\obj\Debug\netcoreapp3.0\Day3.csprojAssemblyReference.cache
 C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3\Day3\Day3\obj\Debug\netcoreapp3.0\Day3.AssemblyInfoInputs.cache
 C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3\Day3\Day3\obj\Debug\netcoreapp3.0\Day3.AssemblyInfo.cs
 C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3\Day3\Day3\bin\Debug\netcoreapp3.0\Day3.exe
