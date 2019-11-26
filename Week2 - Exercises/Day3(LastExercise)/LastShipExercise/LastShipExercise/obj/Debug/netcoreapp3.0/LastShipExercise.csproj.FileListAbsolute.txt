@@ -1,0 +1,21 @@
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.exe
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.deps.json
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.runtimeconfig.json
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.runtimeconfig.dev.json
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.dll
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.pdb
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.AssemblyInfoInputs.cache
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.AssemblyInfo.cs
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.dll
+C:\Users\Kioma\source\repos\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.exe
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.deps.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.runtimeconfig.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.runtimeconfig.dev.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\bin\Debug\netcoreapp3.0\LastShipExercise.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.AssemblyInfoInputs.cache
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.AssemblyInfo.cs
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week2 - Exercises\Day3(LastExercise)\LastShipExercise\LastShipExercise\obj\Debug\netcoreapp3.0\LastShipExercise.csprojAssemblyReference.cache

@@ -13,20 +13,22 @@ namespace Day3
             var ship = new TransportShip();
 
             var express = new TransportShip("Planet Express", 10);
-            var nostromo = new TransportShip("Nostromo", 50);
-
             
 
-            while (true)
-            {
-                var cargo = new Cargo("Bottles of Slurm");
+            var nostromo = new TransportShip("Nostromo", 50);
 
-                if (!ship.AddCargo(cargo))
-                {
-                    break;
-                }
 
-            }
+
+            //while (true)
+            //{
+            //    var cargo = new Cargo("Bottles of Slurm");
+
+            //    if (!ship.AddCargo(cargo))
+            //    {
+            //        break;
+            //    }
+
+            //}
 
             while (true)
             {

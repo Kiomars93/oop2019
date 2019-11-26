@@ -25,9 +25,9 @@ namespace Day3
         }
         void SetAccountBalance(int value)
         {
-            if (value <= 0)  
+            if (value <= 0)
                 throw new ArgumentException("Can't set account to a negative balance", "value");
-            
+
         }
     }
 }

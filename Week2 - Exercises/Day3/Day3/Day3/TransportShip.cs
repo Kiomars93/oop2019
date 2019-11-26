@@ -41,6 +41,10 @@ namespace Day3
 
         public bool AddCargo(Cargo item)
         {
+            if (item == null)
+            {
+                throw new ArgumentException();
+            }
 
             if (Available > item.Size)
             {
@@ -75,6 +79,24 @@ namespace Day3
 
         }
 
+        //public void ListCargo()
+        //{
+
+
+        //    //List what's in the storage of the ship, or "<empty>" if there is no cargo.
+        //    if (storage.Count == 0)
+        //    {
+        //        Console.WriteLine("Cargo is empty");
+        //    }
+        //    else
+        //    {
+        //        foreach (var cargoItem in storage)
+        //        {
+        //            Console.WriteLine(cargoItem.Description);
+        //        }
+        //    }
+        //}
+
         public void ListCargo()
         {
 
@@ -95,8 +117,29 @@ namespace Day3
 
         public bool MoveCargoToOtherShip(TransportShip ship)
         {
+            bool movedItem = false;
+            var item = storage.Peek();
 
-            return true;
+            if (movedItem == false)
+            {
+                while (ship.Available > item.Size)
+                {
+                    ship.AddCargo(item);
+                    //ship.Available = ship.Available - item.Size;
+                    //Console.WriteLine($"{item.Description} + {item.Size}");
+                    //storage.Peek();
+
+                }
+
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+
+
         }
 
     }
