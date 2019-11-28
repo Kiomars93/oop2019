@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Day3
 {
-    class TransportShip
+    class TransportShip : ICargoTransporter
     {
-        public string Name { get; set; }
+        public string Name { get;  }
 
         // Max antal last i skeppet
-        public int Size { get; set; }
+        public int Size { get;  }
 
         // De antal lasten i skeppet. (Värdet kan varieras)
         //Nu kan ej någon client (i main method) ändra Available värdet. Det kan endast ändras inom classen.
@@ -17,16 +17,7 @@ namespace Day3
 
         Stack<Cargo> storage;
         //public Stack<Cargo> Storage { get; set; }
-        public TransportShip()
-        {
-            Name = "Planet Express";
-            Size = 10;
-
-            storage = new Stack<Cargo>();
-
-            Available = Size;
-        }
-
+       
         public TransportShip(string name, int size)
         {
             Name = name;
@@ -102,6 +93,8 @@ namespace Day3
 
 
             //List what's in the storage of the ship, or "<empty>" if there is no cargo.
+            
+
             if (storage.Count == 0)
             {
                 Console.WriteLine("Cargo is empty");
@@ -115,32 +108,29 @@ namespace Day3
             }
         }
 
-        public bool MoveCargoToOtherShip(TransportShip ship)
-        {
-            bool movedItem = false;
-            var item = storage.Peek();
+        //public bool MoveCargoToOtherShip(TransportShip ship)
+        //{
+        //    bool movedItem = false;
+        //    var item = storage.Peek();
 
-            if (movedItem == false)
-            {
-                while (ship.Available > item.Size)
-                {
-                    ship.AddCargo(item);
-                    //ship.Available = ship.Available - item.Size;
-                    //Console.WriteLine($"{item.Description} + {item.Size}");
-                    //storage.Peek();
+        //    if (movedItem == false)
+        //    {
+        //        while (ship.Available > item.Size)
+        //        {
+        //            ship.AddCargo(item);
+        //            //ship.Available = ship.Available - item.Size;
+        //            //Console.WriteLine($"{item.Description} + {item.Size}");
+        //            //storage.Peek();
 
-                }
+        //        }
 
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-
-
-        }
+        //        return true;
+        //    }
+        //    else
+        //    {
+        //        return false;
+        //    }
+        //}
 
     }
 }
