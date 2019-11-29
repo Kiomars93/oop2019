@@ -1,0 +1,8 @@
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\bin\Debug\netstandard2.0\Game.Entities.deps.json
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\bin\Debug\netstandard2.0\Game.Entities.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\bin\Debug\netstandard2.0\Game.Entities.pdb
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\obj\Debug\netstandard2.0\Game.Entities.csprojAssemblyReference.cache
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\obj\Debug\netstandard2.0\Game.Entities.AssemblyInfoInputs.cache
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\obj\Debug\netstandard2.0\Game.Entities.AssemblyInfo.cs
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\obj\Debug\netstandard2.0\Game.Entities.dll
+C:\Users\Kioma\OneDrive\Dokument\GitHub\oop2019\Week3 - Exercises\Game\Game.Entities\obj\Debug\netstandard2.0\Game.Entities.pdb
